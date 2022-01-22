@@ -1,0 +1,137 @@
+.googlemainsrch 
+{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    height: 200px;
+    background-color: #202124;
+    padding: 200px;
+    margin-top: 20px;
+    height: 500px;
+}
+.googlemainscrh #search-field
+{
+    display: flex;
+    flex-direction: row;
+    border-radius: 25px;
+    align-items: center;
+    margin: 10px;
+    
+}
+.body
+{
+    background-color: #202124;
+}
+.input
+{
+    border-top-color: #5a5f63;
+    border-bottom-color: #5a5f63;
+    border-left-color: #5a5f63;
+    border-right-color: #5a5f63;
+    border-top-style: solid;
+    border-left-style: solid;
+    margin-top: 30px;
+    width: 584px;
+    background-color: #202124;
+    height: 48px;
+    border-radius: 25px;
+    color: white;
+    padding-left: 20px;
+    border-width: 1.8px;
+}
+.input:hover
+{
+    background: #303134;
+}
+#submit-btn
+{
+    margin-left: 164px;
+    margin-top: 30px;
+    padding: 8px;
+    background-color: #313034;
+    padding-bottom: 11px;
+    text-align: center;
+    font-size: 13.4px;
+    height: 36px;
+    width: 126px;
+    color: white;
+    font-family: sans-serif;
+    border: none;
+}
+.home-btn
+{
+    background-color: #202124;
+    border: none;
+    margin-left: 1207px;
+    margin-top: 14px;
+}
+.home
+{
+    text-decoration: none;
+    color: white;
+    font-size: 12.7px;
+}
+.home:hover
+{
+    color: white;
+    text-decoration: underline;
+}
+.image:hover
+{
+    text-decoration:underline;
+    color: white;
+}
+
+.image-btn
+{
+    background-color: #202124;
+    border: none;
+    margin-left: 1207px;
+    margin-top: 14px;
+}
+.image
+{
+    text-decoration: none;
+    color: white;
+    font-size: 12.7px;
+}
+.image:hover
+{
+    text-decoration: underline;
+    color: white;
+}
+.adv-btn
+{
+    background-color: #202124;
+    border: none;
+    width: 117px;
+    
+}
+.advanced
+{
+    text-decoration: none;
+    color: white;
+    font-size: 12.7px;
+}
+.advanced:hover
+{
+    text-decoration: underline;
+    color: white;
+}
+#feelings
+{
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-bottom: 300px;
+    padding: 8px;
+    background-color: #313034;
+    padding-bottom: 11px;
+    text-align: center;
+    font-size: 14px;
+    height: 36px;
+    width: 126px;
+    color: white;
+    font-family: sans-serif;
+    border: none;
+}
